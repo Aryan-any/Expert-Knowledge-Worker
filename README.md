@@ -10,7 +10,7 @@ The **Expert Knowledge Worker** is an AI-powered assistant built using **Retriev
 * ✅ Integrated with **Ollama** (to run local LLMs like LLaMA, Mistral) for offline/private model use
 * ✅ Also supports **OpenAI API** (GPT-3.5 / GPT-4) for cloud-based inference
 * ✅ Uses **Retrieval-Augmented Generation (RAG)** to search internal knowledge before generating answers
-* ✅ Developed and tested in **Jupyter Lab** for iterative development and demonstration
+* ✅ Developed and tested in **Jupyter Lab** for iterative development and demonstration and Gradio for a live UI demo
 
 ---
 
@@ -121,9 +121,8 @@ Feel free to fork, improve, or suggest new features! Pull requests and issues ar
 ## 📬 Contact
 
 Built with 🔍 and ❤️ by **Aryan Mishra**
-📧 *[aryanmishra.dev@gmail.com](mailto:aryanmishra.dev@gmail.com)*
+📧 *[mishraaryanm@gmail.com](mailto:mishraaryanm@gmail.com)*
 
 ---
 
-Let me know if you'd like me to help generate the `requirements.txt` or prepare a version for deployment (e.g., Streamlit dashboard).
 
