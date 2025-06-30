@@ -39,7 +39,7 @@ It’s ideal for:
 | ------------------ | --------------------------------------------- |
 | **LangChain**      | Orchestrates components of the RAG pipeline   |
 | **Ollama**         | Runs local LLMs for private inference         |
-| **OpenAI API**     | Accesses GPT-3.5 / GPT-4 for cloud inference  |
+| **OpenAI API**     | Accesses GPT-4 for cloud inference            |
 | **RAG**            | Provides context-aware and accurate answers   |
 | **FAISS / Chroma** | Vector search for retrieving relevant content |
 | **Jupyter Lab**    | Interactive environment for development       |
