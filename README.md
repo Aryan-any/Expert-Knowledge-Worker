@@ -30,7 +30,7 @@ It’s ideal for:
 * Customer support automation
 * Internal knowledge access
 * Business decision support
-
+* and many more use cases.....
 ---
 
 ## 🛠️ Technologies Used
